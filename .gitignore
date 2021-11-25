@@ -1,3 +1,23 @@
+data/
+
+# 开发工具
+.idea
+.vscode
+
+# Windows
+[Dd]esktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
